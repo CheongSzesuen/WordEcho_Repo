@@ -1,5 +1,5 @@
 nameCN,nameDATA,desc,isTextBook,isDisorder,link,Length,fileSize
-高考必背3500,CEE3500.json,高考必背3500个单词,0,0,https://raw.githubusercontent.com/CheongSzesuen/AbanWord_Repo/refs/heads/main/CEE3500.json,3936,417028
-四级必背,CET4.json,四级必背单词,0,1,https://raw.githubusercontent.com/CheongSzesuen/AbanWord_Repo/refs/heads/main/CET4.json,4449,577402
-六级必背,CET6.json,六级必背单词,0,0,https://raw.githubusercontent.com/CheongSzesuen/AbanWord_Repo/refs/heads/main/CET6.json,5523,860546
-人教版高中,PEP-S.json,人教版高中词书单词,1,0,https://raw.githubusercontent.com/CheongSzesuen/AbanWord_Repo/refs/heads/main/PEP-S.json,2596,282315
+高考必背3500,CEE3500.json,高考必背3500个单词,0,0,https://raw.githubusercontent.com/CheongSzesuen/WordEcho_Repo/refs/heads/main/CEE3500.json,3936,417028
+四级必背,CET4.json,四级必背单词,0,1,https://raw.githubusercontent.com/CheongSzesuen/WordEcho_Repo/refs/heads/main/CET4.json,4449,577402
+六级必背,CET6.json,六级必背单词,0,0,https://raw.githubusercontent.com/CheongSzesuen/WordEcho_Repo/refs/heads/main/CET6.json,5523,860546
+人教版高中,PEP-S.json,人教版高中词书单词,1,0,https://raw.githubusercontent.com/CheongSzesuen/WordEcho_Repo/refs/heads/main/PEP-S.json,2596,282315
